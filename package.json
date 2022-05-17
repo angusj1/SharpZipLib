@@ -1,0 +1,16 @@
+{
+  "displayName": "SharpZipLib",
+  "name": "org.angusj1.sharpziplib",
+  "version": "1.3.3-relocate",
+  "description": "A Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angusj1/SharpZipLib.git"
+  },
+  "author": "SharpZipLib Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angusj1/SharpZipLib/issues"
+  },
+  "homepage": "https://github.com/angusj1/SharpZipLib"
+}
